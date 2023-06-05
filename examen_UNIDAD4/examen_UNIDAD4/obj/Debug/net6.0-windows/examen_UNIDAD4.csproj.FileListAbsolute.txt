@@ -1,0 +1,17 @@
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.csproj.AssemblyReference.cache
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.Form1.resources
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.csproj.GenerateResource.cache
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.AssemblyInfoInputs.cache
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.AssemblyInfo.cs
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\bin\Debug\net6.0-windows\examen_UNIDAD4.exe
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\bin\Debug\net6.0-windows\examen_UNIDAD4.deps.json
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\bin\Debug\net6.0-windows\examen_UNIDAD4.runtimeconfig.json
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\bin\Debug\net6.0-windows\examen_UNIDAD4.dll
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\bin\Debug\net6.0-windows\examen_UNIDAD4.pdb
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.dll
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\refint\examen_UNIDAD4.dll
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.pdb
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\examen_UNIDAD4.genruntimeconfig.cache
+C:\Users\Alumno\Pictures\examen_UNIDAD4\examen_UNIDAD4\obj\Debug\net6.0-windows\ref\examen_UNIDAD4.dll
