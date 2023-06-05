@@ -1,0 +1,17 @@
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\bin\Debug\net6.0-windows\MatrizPromedioColumna.exe
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\bin\Debug\net6.0-windows\MatrizPromedioColumna.deps.json
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\bin\Debug\net6.0-windows\MatrizPromedioColumna.runtimeconfig.json
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\bin\Debug\net6.0-windows\MatrizPromedioColumna.dll
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\bin\Debug\net6.0-windows\MatrizPromedioColumna.pdb
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.csproj.AssemblyReference.cache
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.Form1.resources
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.csproj.GenerateResource.cache
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.AssemblyInfoInputs.cache
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.AssemblyInfo.cs
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.dll
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\refint\MatrizPromedioColumna.dll
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.pdb
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\MatrizPromedioColumna.genruntimeconfig.cache
+C:\Users\Alumno\Pictures\MatrizPromedioColumna\MatrizPromedioColumna\obj\Debug\net6.0-windows\ref\MatrizPromedioColumna.dll

@@ -1,0 +1,33 @@
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.AssemblyReference.cache
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.SuggestedBindingRedirects.cache
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\obj\Debug\_2_Arreglos.Form1.resources
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\obj\Debug\_2_Arreglos.Properties.Resources.resources
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.GenerateResource.cache
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\bin\Debug\2_Arreglos.exe.config
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\bin\Debug\2_Arreglos.exe
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\bin\Debug\2_Arreglos.pdb
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.exe
+C:\Users\karla\source\repos\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.pdb
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\bin\Debug\2_Arreglos.exe.config
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\bin\Debug\2_Arreglos.exe
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\bin\Debug\2_Arreglos.pdb
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\obj\Debug\_2_Arreglos.Form1.resources
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\obj\Debug\_2_Arreglos.Properties.Resources.resources
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.exe
+C:\Users\Alumno\Desktop\unidad 4\4-Unidad-main\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.pdb
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\bin\Debug\2_Arreglos.exe.config
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\bin\Debug\2_Arreglos.exe
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\bin\Debug\2_Arreglos.pdb
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\obj\Debug\_2_Arreglos.Form1.resources
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\obj\Debug\_2_Arreglos.Properties.Resources.resources
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.exe
+C:\Users\Alumno\Desktop\unidad 4\2_Arreglos\2_Arreglos\obj\Debug\2_Arreglos.pdb

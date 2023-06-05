@@ -1,0 +1,34 @@
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.exe
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.deps.json
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.runtimeconfig.json
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.dll
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.pdb
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.csproj.AssemblyReference.cache
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.Form1.resources
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.csproj.GenerateResource.cache
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.AssemblyInfoInputs.cache
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.AssemblyInfo.cs
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.dll
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\refint\Matriz5x5.dll
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.pdb
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.genruntimeconfig.cache
+C:\Users\Alumno\Pictures\Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\ref\Matriz5x5.dll
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.exe
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.deps.json
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.runtimeconfig.json
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.dll
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\bin\Debug\net6.0-windows\Matriz5x5.pdb
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.Form1.resources
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.dll
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\refint\Matriz5x5.dll
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.pdb
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\Matriz5x5.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\unidad 4\PRAC3 Matriz5x5\Matriz5x5\obj\Debug\net6.0-windows\ref\Matriz5x5.dll
